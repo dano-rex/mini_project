@@ -1,0 +1,24 @@
+EVERYTHING HAVE LEARNT ABOUT GIT AND SHELL
+SHELL
+I learnt all the commands i need to e.g 
+1.mkdir - to make directory's/folder's
+2.touch - to make files
+3.ls - to list everything in that directory
+4.cd - to change directory to see into
+5.rm - to remove files
+6.rm -r -  to remove directory
+7.cd .. -  to move back one directory
+8.vi - to write into a file and save with esc+shift+z+z 
+9.cat - to to display the file e.t.c.
+
+GIT
+1.git clone - to get access to the git repository
+2.git status - to check untracked files and changes
+3.git commit -m - to to save changes with a short message
+4.git push - to move all changes back to git 
+5.git pull - to move all changes from the get to the terminal or download changes
+6.git log - to show everything you've done 
+7.git branch - to see the branch your in now
+8.git switch - to switch back to any branch provided that its there
+9.git merge - to merge the changes from either branch to the main branch e.t.c.
+
